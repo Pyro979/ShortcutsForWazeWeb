@@ -11,7 +11,7 @@ This repository contains the public documentation and legal pages for Shortcuts 
 ## GitHub Pages Setup
 
 This repository is configured to use GitHub Pages. The site will be available at:
-`https://pyro979.github.io/ShortcutsForWazeWeb/`
+https://pyro979.github.io/ShortcutsForWazeWeb/
 
 ## Local Development
 
